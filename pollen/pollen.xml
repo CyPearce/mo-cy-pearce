@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<document master="False">
+	<issue at="2017-04-22T04:25:58" day="Saturday" />
+	<report>
+		<region name="Orkney and Shetland" id="OS">
+			<day number="1" level="Low">
+				<para> The pollen risk will be very low. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="Highlands and Eilean Siar" id="HE">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be low. The birch pollen season is very mild this year and the oak pollen season has yet to </para>
+				<para> start. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="Grampian" id="GR">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be low. The birch pollen season is very mild this year and the oak pollen season has yet to </para>
+				<para> start. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="Strathclyde" id="ST">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be low. The birch pollen season is very mild this year and the oak pollen season has yet to </para>
+				<para> start. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="Central Tayside and Fife" id="TA">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be low. The birch pollen season is very mild this year and the oak pollen season has yet to </para>
+				<para> start. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="SW Scotland, Lothian Borders" id="DG">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be low. The birch pollen season is very mild this year and the oak pollen season has yet to </para>
+				<para> start. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="N Ireland" id="NI">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will rise to moderate. Oak and a little birch pollen will be airborne. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="Wales" id="WL">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="High">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+		<region name="NW England" id="NW">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be moderate. The birch pollen season is almost over and the oak pollen season is just </para>
+				<para> starting. Moderate risk from plane pollen in some cities and towns. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="NE England" id="NE">
+			<day number="1" level="Low">
+				<para> The tree pollen risk will be low. The birch pollen season is very mild this year and the oak pollen season has yet to </para>
+				<para> start. </para>
+			</day>
+			<day number="2" level="Low">
+				<para> </para>
+			</day>
+			<day number="3" level="Low">
+				<para> </para>
+			</day>
+			<day number="4" level="Low">
+				<para> </para>
+			</day>
+			<day number="5" level="Low">
+				<para> </para>
+			</day>
+		</region>
+		<region name="Yorks &amp; Humber" id="YH">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+		<region name="E Midlands" id="EM">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+		<region name="W Midlands" id="WM">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+		<region name="E of England" id="EE">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="High">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+		<region name="SW England" id="SW">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="High">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+		<region name="London and SE England" id="SE">
+			<day number="1" level="Moderate">
+				<para> The tree pollen risk will rise to high. Oak pollen will be airborne along with plane pollen in some cities and towns. </para>
+				<para> Small amounts of birch and grass will also be airborne. </para>
+			</day>
+			<day number="2" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="3" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="4" level="Moderate">
+				<para> </para>
+			</day>
+			<day number="5" level="Moderate">
+				<para> </para>
+			</day>
+		</region>
+	</report>
+</document>
